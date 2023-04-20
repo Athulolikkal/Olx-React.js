@@ -30,7 +30,7 @@ function Login() {
     });
   
    }
-  
+ 
   
   
   return (
@@ -67,7 +67,7 @@ function Login() {
           <br />
           <button>Login</button>
         </form>
-        <a>Signup</a>
+      <a  >Signup</a>
       </div>
     </div>
   );
